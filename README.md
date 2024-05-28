@@ -14,6 +14,9 @@
 
 <h3 align="left">Tools:</h3>
 <h4 align="left">Programming languages:</h4>
+<h4 align="left">Front-end:</h4>
+<h4 align="left">Back-end:</h4>
+<h4 align="left">Database:</h4>
 <p align="left"> 
    
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
