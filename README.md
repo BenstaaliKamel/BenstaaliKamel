@@ -12,7 +12,8 @@
 <a href="https://linkedin.com/in/kamel benstaali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamel benstaali" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tools:</h3>
+<h4 align="left">Programming languages:</h4>
 <p align="left"> 
    
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
