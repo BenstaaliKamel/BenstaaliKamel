@@ -16,16 +16,18 @@
 <h4 align="left">Programming languages:</h4>
 <p></p>
 <h4 align="left">Front-end:</h4>
-<p></p>
+<p>
+   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+   </a>
+</p>
 <h4 align="left">Back-end:</h4>
 <p></p>
 <h4 align="left">Database:</h4>
 <p></p>
 <p align="left"> 
    
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
+   
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a>  
