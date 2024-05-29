@@ -215,8 +215,11 @@
    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="40" height="40"/> 
    </a>
-   <a href="" target="_blank" rel="noreferrer"> 
-    <img src="" alt="" width="40" height="40"/> 
+   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" width="40" height="40"/> 
+   </a>
+   <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" alt="webstorm" width="40" height="40"/> 
    </a>
    <a href="" target="_blank" rel="noreferrer"> 
     <img src="" alt="" width="40" height="40"/> 
