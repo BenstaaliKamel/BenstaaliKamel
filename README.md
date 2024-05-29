@@ -232,6 +232,9 @@
    <a href="https://visualstudio.microsoft.com/fr/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Studio_Logo_%282013-2017%29.svg" alt="studiocode" width="40" height="40"/> 
    </a>
+   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg" alt="eclipse" width="40" height="40"/> 
+   </a>
    <a href="" target="_blank" rel="noreferrer"> 
     <img src="" alt="" width="40" height="40"/> 
    </a>
