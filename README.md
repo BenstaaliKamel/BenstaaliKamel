@@ -189,5 +189,8 @@
    <a href="https://www.lucidchart.com/pages/?" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/lucidchart/lucidchart-icon.svg" alt="lucidchart" width="40" height="40"/> 
    </a> 
+   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VScode" width="40" height="40"/> 
+   </a>
 </p>
 </p>
