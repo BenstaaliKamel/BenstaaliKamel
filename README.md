@@ -163,8 +163,11 @@
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/> 
   </a>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Windows_10_Logo.svg" alt="windows10" width="100" height="40"/> 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows_11_logo.svg" alt="windows11" width="100" height="40"/> 
+   <p>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Windows_10_Logo.svg" alt="windows10" width="100" height="40"/> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows_11_logo.svg" alt="windows11" width="100" height="40"/>
+   </p>
+    
   
 
   <h5>AI/ML:</h5>
