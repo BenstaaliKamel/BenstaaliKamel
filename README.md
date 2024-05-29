@@ -212,8 +212,15 @@
    <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="40" height="40"/> 
    </a>
+   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="40" height="40"/> 
+   </a>
    <a href="" target="_blank" rel="noreferrer"> 
     <img src="" alt="" width="40" height="40"/> 
    </a>
+   <a href="" target="_blank" rel="noreferrer"> 
+    <img src="" alt="" width="40" height="40"/> 
+   </a>
+   
 </p>
 </p>
