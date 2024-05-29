@@ -229,6 +229,9 @@
    <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" alt="webstorm" width="40" height="40"/> 
    </a>
+   <a href="https://visualstudio.microsoft.com/fr/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Studio_Logo_%282013-2017%29.svg" alt="studiocode" width="40" height="40"/> 
+   </a>
    <a href="" target="_blank" rel="noreferrer"> 
     <img src="" alt="" width="40" height="40"/> 
    </a>
