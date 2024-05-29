@@ -209,8 +209,8 @@
    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> 
    </a>
-   <a href="" target="_blank" rel="noreferrer"> 
-    <img src="" alt="" width="40" height="40"/> 
+   <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="40" height="40"/> 
    </a>
    <a href="" target="_blank" rel="noreferrer"> 
     <img src="" alt="" width="40" height="40"/> 
