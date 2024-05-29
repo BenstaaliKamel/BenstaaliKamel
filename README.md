@@ -241,9 +241,6 @@
    <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="netbeans" width="40" height="40"/> 
    </a> 
-   <a href="" target="_blank" rel="noreferrer"> 
-    <img src="" alt="" width="40" height="40"/> 
-   </a>
    
 </p>
 </p>
