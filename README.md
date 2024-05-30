@@ -197,7 +197,7 @@
   <h5>Generative AI:</h5>
   
   <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" width="40" height="80"/> 
   </a> 
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="" alt="Llama" width="40" height="40"/> 
