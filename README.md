@@ -200,7 +200,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="OpenAI" width="40" height="40"/> 
   </a> 
   <a href="" target="_blank" rel="noreferrer"> 
-    <img src="" alt="Llama" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Llama_mark.svg" alt="Llama" width="40" height="40"/> 
   </a> 
   <h5>Software:</h5>
 <p>
