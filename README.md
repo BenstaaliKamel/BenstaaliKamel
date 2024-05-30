@@ -194,6 +194,14 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
   
+  <h5>Generative AI:</h5>
+  
+  <a href="" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" width="40" height="40"/> 
+  </a> 
+  <a href="" target="_blank" rel="noreferrer"> 
+    <img src="" alt="Llama" width="40" height="40"/> 
+  </a> 
   <h5>Software:</h5>
 <p>
     <a href="https://www.gimp.org" target="_blank" rel="noreferrer"> 
